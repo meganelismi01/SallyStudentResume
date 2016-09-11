@@ -1,0 +1,78 @@
+
+
+main {
+	background-color: white;
+	padding: 20px;
+	border-color: black;
+	border-radius: 3px;
+	min-height: 700px;
+	font-family: 'PT Sans', sans-serif;
+
+
+}
+
+
+img {
+	padding: 15px;
+}
+
+
+ p{
+ 	font-size:1.2em;
+
+ }
+
+ li {
+ 	font-size: 1.2em;
+ }
+
+ #name {
+	font-size:3.3em;
+	text-align: center;
+}
+
+
+ #contact {
+ 	float: right;
+ 	margin-top: 40px;
+ 	margin-right: 40px;
+ 	margin-left: 0;
+
+
+
+ }
+
+ #header_box {
+ 	min-height: 250px; 
+ 	width: 475px;
+ 	margin-right: 0;
+ 	float: left;
+ 	
+ 
+ }
+
+ #education_professional {
+ 	float: right; 
+ 	width: 600px;
+
+ }
+
+ .skills {
+ 	width: 500px;
+ 	
+ }
+
+#profession {
+	color: orange;
+	font-family: 'Homemade Apple', cursive;
+	text-align: center;
+}
+
+#address {
+	font-family: 'PT Sans', sans-serif;
+	text-align: center;
+
+}
+
+
+
